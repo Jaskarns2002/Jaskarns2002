@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m an IT student, data enthusiast, and entrepreneur who
 ## 💼 Work & Projects:
 
 ### 📊 Operations Data Management | N&S Trucking
-- Operations Data Management | N&S Trucking**
+- Operations Data Management | N&S Trucking
 - Managing driver performance, diesel costs, and load operations with **MySQL & Excel**  
 - Built structured databases for better business insights  
 

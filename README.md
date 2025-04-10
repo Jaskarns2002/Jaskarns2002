@@ -8,6 +8,8 @@ I'm a **lifelong learner** who’s always leveling up — curious, creative, and
 
 ## 📁 Projects  
 - 🔍 [Job-Layoff-Project](https://github.com/Jaskarns2002/Data-Layoff-Project) – Cleaned and analyzed real-world tech layoffs data using SQL, focusing on trends and insights
+- 🚗 [Sikh Car Detailing Booking System](https://github.com/Jaskarns2002/Sikh-Details) - Developed a real-world booking website for a local car detailing business using **Wix**.  
+
 
 
 ---

@@ -9,7 +9,7 @@ I'm a **lifelong learner** who’s always leveling up — curious, creative, and
 ## 📁 Projects  
 - 🔍 [Job-Layoff-Project](https://github.com/Jaskarns2002/Data-Layoff-Project) – Cleaned and analyzed real-world tech layoffs data using SQL, focusing on trends and insights  
 - 🚗 [Sikh Car Detailing Booking System](https://github.com/Jaskarns2002/Sikh-Details) – Developed a real-world booking website for a local car detailing business using **Wix**  
-- 🚚 [NS Express – Data Management & Dashboard](https://github.com/Jaskarns2002/NS-Express) – Built a full-stack trucking operations system using **Excel, MySQL, Python, and Tableau**, with automation and BI dashboard  
+- 🚚 [NS Express – Data Management & Dashboard](https://github.com/Jaskarns2002/N-S-Express) – Built a full-stack trucking operations system using **Excel, MySQL, Python, and Tableau**, with automation and BI dashboard  
 
 ---
 

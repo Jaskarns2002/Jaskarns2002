@@ -1,5 +1,5 @@
 # 👋 Hey, I’m **Jaskarn Singh (Jas)**  
-🎓 IT Student | 📊 Data Enthusiast | 🎥 Entrepreneur  
+🎓 UW IT Graduate | 📊 Data Enthusiast | 🎥 Entrepreneur  
 
 Welcome to my GitHub! I'm passionate about all things **tech, data, and storytelling** — whether it's through interactive dashboards or cinematic wedding films.  
 I'm a **lifelong learner** who’s always leveling up — curious, creative, and constantly building.
@@ -7,10 +7,9 @@ I'm a **lifelong learner** who’s always leveling up — curious, creative, and
 ---
 
 ## 📁 Projects  
-- 🔍 [Job-Layoff-Project](https://github.com/Jaskarns2002/Data-Layoff-Project) – Cleaned and analyzed real-world tech layoffs data using SQL, focusing on trends and insights
-- 🚗 [Sikh Car Detailing Booking System](https://github.com/Jaskarns2002/Sikh-Details) - Developed a real-world booking website for a local car detailing business using **Wix**.  
-
-
+- 🔍 [Job-Layoff-Project](https://github.com/Jaskarns2002/Data-Layoff-Project) – Cleaned and analyzed real-world tech layoffs data using SQL, focusing on trends and insights  
+- 🚗 [Sikh Car Detailing Booking System](https://github.com/Jaskarns2002/Sikh-Details) – Developed a real-world booking website for a local car detailing business using **Wix**  
+- 🚚 [NS Express – Data Management & Dashboard](https://github.com/Jaskarns2002/NS-Express) – Built a full-stack trucking operations system using **Excel, MySQL, Python, and Tableau**, with automation and BI dashboard  
 
 ---
 
@@ -54,4 +53,4 @@ Organizer of one of the **largest Punjabi basketball tournaments** in the Pacifi
 ---
 
 ## ⚡ Fun Fact:  
-I’m juggling **IT school, data analytics, a wedding business, and hoop tournaments** — and loving every second of it!
+I’m juggling **tech, storytelling, data, and community building** — and loving every second of it!
